@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Bio data</title>
+    <style media="screen">
+      body{
+        color:orange;
+      }
+      table,th,td{
+        border:1px solid white;
+        background-color:orange;
+        color:white;
+        align:center;
+        border-collapse:collapse;
+      }
+      div{
+        width:50%;
+        padding-left:25%;
+      }
+    </style>
+  </head>
+  <body>
+    <h1 align="center">Lovely Kumari</h1>
+    <p align="center">lovelys.ug19.cs@nitp.ac.in</p>
+    <div class="">
+
+    <table style="width:100%">
+      <tr>
+        <th>Class</th>
+        <th>Name of Board</th>
+        <th>Percentage</th>
+      </tr>
+      <tr>
+        <td>!0th</td>
+        <td>CBSE</td>
+        <td>10 CGPA</td>
+      </tr>
+      <tr>
+        <td>12th</td>
+        <td>CBSE</td>
+        <td>86%</td>
+      </tr>
+      <tr>
+        <td>B.TECH</td>
+        <td>NITP</td>
+        <td>8.43 CGPA</td>
+      </tr>
+    </table>
+
+  </div>
+  </body>
+</html>
